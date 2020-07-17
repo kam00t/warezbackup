@@ -1,2 +1,2 @@
-SOFRWARE= cat software.txt
+SOFTWARE= cat software.txt
 sudo apt install $SOFTWARE
